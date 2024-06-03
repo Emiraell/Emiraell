@@ -16,7 +16,7 @@
 
 💬 Ask me about **Frontend Development**
 
-📫 How to reach me **emmzex19@@gmail.com**
+📫 How to reach me **emmzex19@gmail.com**
 
 ## 🔰 Let's Connect:
 
@@ -27,6 +27,7 @@
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![typescript](https://img.shields.io/badge/Typescript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 [![reduxjs](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org)
 [![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
