@@ -3,12 +3,9 @@
 </h1>
 
 <h3 align='center'>
-  A passionate Frontend Developer from Nigeria <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
+  A passionate Frontend Developer from Nigeria <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-nigeria-free-png.png" alt="Nigeria Flag" width="25" />
 </h3>
 
-<div align='center'>
-  <img src="https://komarev.com/ghpvc/?username=chetannada&style=flat-square&color=blue" alt="Profile Views" />
-</div>
 <br/>
 
 🏫 I’m currently learning **Next js and React native by doing Project**
