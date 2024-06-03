@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align='center'>
-  A passionate Frontend Developer from Nigeria <img style="vertical-align: sub" src="[[https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-nigeria-free-png.png](https://iconscout.com/free-icon/nigeria-flag-3001634)](https://www.vecteezy.com/vector-art/8079168-flag-of-cote-nigeria-3d-vector-object-isolated-on-transparent-background)" alt="Nigeria Flag" width="25" />
+  A passionate Frontend Developer from Nigeria <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-nigeria-free-png.png" alt="Nigeria Flag" width="25" />
 </h3>
 
 <br/>
