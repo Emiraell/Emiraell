@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align='center'>
-  A passionate Frontend Developer from Nigeria <img style="vertical-align: sub" src="[https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-nigeria-free-png.png](https://iconscout.com/free-icon/nigeria-flag-3001634)" alt="Nigeria Flag" width="25" />
+  A passionate Frontend Developer from Nigeria <img style="vertical-align: sub" src="[[https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-nigeria-free-png.png](https://iconscout.com/free-icon/nigeria-flag-3001634)](https://www.vecteezy.com/vector-art/8079168-flag-of-cote-nigeria-3d-vector-object-isolated-on-transparent-background)" alt="Nigeria Flag" width="25" />
 </h3>
 
 <br/>
@@ -27,7 +27,7 @@
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![typescript](https://img.shields.io/badge/Typescript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+[![typescript](https://img.shields.io/badge/Typescript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)](https://https://www.typescriptlang.org/)
 [![reduxjs](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org)
 [![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
@@ -37,6 +37,5 @@
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 [![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
 [![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 [![github pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://pages.github.com/)
 [![visualstudio](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
